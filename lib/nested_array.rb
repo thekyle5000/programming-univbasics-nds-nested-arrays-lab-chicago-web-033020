@@ -30,7 +30,6 @@ end
 
 def sorted_matrix
   sorted = [CONVENTIONAL_PRODUCE.sort,ORGANIC_PRODUCE.sort]
-  sorted
 
   
   # Using Array literal syntax only, build another nested array that 
